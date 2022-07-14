@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CHIPnGo Dev #4 - Porting the Emulator"
+title: "CHIPnGo Dev #4 - Firmware: Porting the Emulator"
 ---
 
 Before I was going to get started wiring up components on the breadboard, I had to first port my emulator to the MCU. Initially this wasn't too difficult, since the emulator was written in C and was already somewhat optimized. This mostly entailed removing the XO-CHIP aspects from the emulator, removing the SDL code for graphics+keyboard, and adding some time-keeping functions which I had originally relied on the operating system to provide.
