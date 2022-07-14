@@ -5,7 +5,7 @@ title: "CHIPnGo Dev #4 - Firmware: Porting the Emulator"
 
 Before I was going to get started wiring up components on the breadboard, I had to first port my emulator to the MCU. Initially this wasn't too difficult, since the emulator was written in C and was already somewhat optimized. This mostly entailed removing the XO-CHIP aspects from the emulator, removing the SDL code for graphics+keyboard, and adding some time-keeping functions which I had originally relied on the operating system to provide.
 
-As I mentioned, I needed some way to keep track of time since the CHIP-8 internal timer runs at a frequency of 60Hz. To accomplish that, I had to take my first step of jumping into a datasheet and try to make sense of things. After a bit of reading, I decided I would use systick to handle this (though I later went with a hardware timer instead) since it seemed simple enough to implement in code.
+As I mentioned, I needed some way to keep track of time since the CHIP-8 internal timer runs at a frequency of 60Hz. To accomplish that, I had to take my first step of jumping into a datasheet and try to make sense of things. After a bit of reading, I decided I would use systick to handle this (though I later went with a [hardware timer](https://github.com/kurtjd/CHIPnGo/blob/main/src/clock.c) instead) since it seemed simple enough to implement in code.
 
 And so I wrote up a little systick library which triggered an interrupt every ms so I could track total elapsed ms since program start, which should suffice since my emulator already used elapsed ms in its calculations. The only problem is, I of course had no way of really testing my port since I had no input/output.
 
