@@ -29,3 +29,11 @@ With this tool complete (which I ended up calling [Cartridge8](https://github.co
 <img src="/assets/img/chipngo-prototype.jpg" width="100%" height="100%" />
 <small>I moved the buttons around and added a makeshift battery pack so the prototype alone was already feeling like a handheld console.</small>
 </p>
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/14/chipngo-dev-9-firmware-game-storage"><< Prev</a></td>
+<td><a href="/2022/07/15/chipngo-dev-11-beyond-the-breadboard">Next >></a></td>
+</tr>
+</table>

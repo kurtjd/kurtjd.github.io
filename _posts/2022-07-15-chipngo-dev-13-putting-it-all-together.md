@@ -52,3 +52,11 @@ All in all, I'm quite pleased with how things turned out. In the final post of t
 <img src="/assets/img/chipngo-complete.jpg" width="100%" height="100%" />
 <small>CHIPnGo</small>
 </p>
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/15/chipngo-dev-12-the-pcb"><< Prev</a></td>
+<td><a href="/2022/07/15/chipngo-dev-14-conclusion">Next >></a></td>
+</tr>
+</table>

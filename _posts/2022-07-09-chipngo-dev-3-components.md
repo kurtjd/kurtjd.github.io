@@ -101,3 +101,11 @@ Like the power switch, I had held off on deciding on a portable power supply unt
 </p>
 
 With most of my components decided upon, it was time to whip out the breadboard, write some code, and get to work on a prototype.
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/08/chipngo-dev-2-the-plan"><< Prev</a></td>
+<td><a href="/2022/07/13/chipngo-dev-4-firmware-porting-emulator">Next >></a></td>
+</tr>
+</table>

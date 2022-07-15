@@ -30,3 +30,11 @@ Anyway, fast forward to the beginning of this year where I finally started my fr
 After a couple months of this, I finally felt I had a basic understanding of things and had become so interested in embedded software that I changed my major to Electrical & Computer Engineering.
 
 Though I still only felt like I was scratching the surface when it came to embedded development, and wanted to dive deeper. Thus, I needed a project to push my comfort zone. Seeing as CHIP-8 never existed as an actual game console, I figured it would be pretty cool to make that a reality, so that's what I set out to do.
+
+<br>
+<table align="center">
+<tr>
+<td><< Prev</td>
+<td><a href="/2022/07/08/chipngo-dev-2-the-plan">Next >></a></td>
+</tr>
+</table>

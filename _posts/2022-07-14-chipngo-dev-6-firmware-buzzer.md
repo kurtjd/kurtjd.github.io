@@ -13,3 +13,11 @@ I wish I had more to add to this but I didn't really run into too many challenge
 <img src="/assets/img/chipngo-breadboard-2.jpg" width="100%" height="100%" />
 <small>I decided briefly to combine two breadboards at this stage for space but later went back to just the one.</small>
 </p>
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/13/chipngo-dev-5-firmware-buttons"><< Prev</a></td>
+<td><a href="/2022/07/14/chipngo-dev-7-firmware-display">Next >></a></td>
+</tr>
+</table>

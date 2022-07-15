@@ -61,3 +61,11 @@ At this point I was pretty satisfied overall with the display. My biggest gripe 
 <img src="/assets/img/chipngo-breadboard-3.jpg" width="100%" height="100%" />
 <small>Starting to resemble a game console! (The SD reader here has been wired but not yet functional)</small>
 </p>
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/14/chipngo-dev-6-firmware-buzzer"><< Prev</a></td>
+<td><a href="/2022/07/14/chipngo-dev-8-firmware-sd">Next >></a></td>
+</tr>
+</table>

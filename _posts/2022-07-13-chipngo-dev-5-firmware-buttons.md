@@ -23,3 +23,11 @@ This worked a bit better, but it's still not perfect. I will probably investigat
 <img src="/assets/img/chipngo-breadboard-1.jpg" width="100%" height="100%" />
 <small>Current state of the project (with unrelated placeholder display while I waited for the actual one to arrive).</small>
 </p>
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/13/chipngo-dev-4-firmware-porting-emulator"><< Prev</a></td>
+<td><a href="/2022/07/14/chipngo-dev-6-firmware-buzzer">Next >></a></td>
+</tr>
+</table>

@@ -22,3 +22,11 @@ Having said that, beyond just getting something functional, I was also focused s
 </p>
 
 Thus I began some initial research, trying to figure out what I'd need, what was out there, etc. Once I felt ready, I began selecting components, which I'll cover in the next post of this series.
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/08/chipngo-dev-1-intro"><< Prev</a></td>
+<td><a href="/2022/07/09/chipngo-dev-3-components">Next >></a></td>
+</tr>
+</table>

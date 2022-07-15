@@ -53,3 +53,11 @@ Not satisfied, I decided to rewrite some of the firmware to use different pins t
 Really all that was left was deciding how to handle ground. Based on my reading it seemed that the best way was to make an entire ground plane and just connect the ground pins to this plane. Some also suggested having a ground plane on both sides and use vias to connect them, but I didn't fully understand why/where to place the vias, so I just settled on ground planes on both sides, but with no vias, and hoped for the best.
 
 After triple-checking my schematic and footprint measurements (I printed a 1:1 scale paper copy and made sure the components lined up properly), I took the plunge and ordered my PCBs. Due to their size, it would cost me roughly $90 for a set of three from OSH Park. Oof. I still wasn't entirely sure this thing would work, so I was worried I had made an expensive mistake, but there was only one way to find out. 
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/15/chipngo-dev-11-beyond-the-breadboard"><< Prev</a></td>
+<td><a href="/2022/07/15/chipngo-dev-13-putting-it-all-together">Next >></a></td>
+</tr>
+</table>

@@ -30,3 +30,11 @@ However, I only got to the point where I could perform raw read/writes. Implemen
 <img src="/assets/img/chipngo-breadboard-4.jpg" width="100%" height="100%" />
 <small>CHIPnGo is now running a game loaded directly from SD!</small>
 </p>
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/14/chipngo-dev-7-firmware-display"><< Prev</a></td>
+<td><a href="/2022/07/14/chipngo-dev-9-firmware-game-storage">Next >></a></td>
+</tr>
+</table>

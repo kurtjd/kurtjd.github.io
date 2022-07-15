@@ -18,3 +18,11 @@ I also set about pouring through the datasheet to figure out how to set the cloc
 And just a few hours more, I had the [UART library](https://github.com/kurtjd/CHIPnGo/blob/main/src/uart.c) written as well which I was able to test successfully using PuTTY. Lastly, I threw together a [Python script](https://github.com/kurtjd/CHIPnGo/blob/main/tools/serial_interface.py) which used Pygame to draw a display based on the serial data it was receiving.
 
 To my surprise, it was working pretty well! It wasn't blazing fast (mainly because I was drawing the display very inefficiently in Python) but it would be good enough for testing purposes until the physical display would arrive.
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/09/chipngo-dev-3-components"><< Prev</a></td>
+<td><a href="/2022/07/13/chipngo-dev-5-firmware-buttons">Next >></a></td>
+</tr>
+</table>

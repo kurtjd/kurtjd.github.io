@@ -31,3 +31,11 @@ As far as the electrical side of things, this project really highlighted how lit
 My hope is that now that I'm armed with more knowledge and experience, I can make more polished projects. Since this was meant more as a learning experience, things are quite rough around the edges. I'd like to revisit this project in perhaps a year or so and see if I can improve upon it (possibly supporting XO-CHIP in the process) and perhaps at least approach semi-consumer-grade in quality.
 
 Overall, I'm quite proud with how much I learned over the past few months. I now have a better understanding of how a MCU interacts with hardware, how communication protocols such as UART and SPI work at a basic level, the basics of voltage, current, and power, and a general idea of how to design PCBs. For now I'm just going to focus on learning, but I should have another project in the works soon, so stay tuned!
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/15/chipngo-dev-13-putting-it-all-together"><< Prev</a></td>
+<td>Next >></td>
+</tr>
+</table>

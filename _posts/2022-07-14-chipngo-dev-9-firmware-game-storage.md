@@ -22,3 +22,11 @@ Finally, the last twelve bytes would represent the button mapping. Essentially, 
 This left 482 bytes still free in the metadata sector, which was nice in case I ever want to add more metadata in the future.
 
 But, without some way of streamlining saving games to SD, this would be pretty useless. After all, no one is going to want to write these bytes by hand, so I had to develop a tool to make this more user-friendly.
+
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/14/chipngo-dev-8-firmware-sd"><< Prev</a></td>
+<td><a href="/2022/07/15/chipngo-dev-10-cartridge8">Next >></a></td>
+</tr>
+</table>

@@ -33,5 +33,10 @@ Based on my requirements, I'd really only need SPST switches as they would be se
 
 I was 99% certain I could just get a SPDT switch and use it as a SPST switch by leaving one pin floating, but I didn't want to take any chances and have my entire PCB fail because of a stupid switch, so I settled on this rather bulky [SPST switch](https://www.digikey.com/en/products/detail/cw-industries/GF-123-0054/4089770) (which appears to be a SPDT switch anyway with one of the pins cut off). Due to the size of the thing, I scrapped the idea of having independent power switches for the display backlight and buzzer, which I now regret. Oh well, at least it was a learning experience.
 
-
-
+<br>
+<table align="center">
+<tr>
+<td><a href="/2022/07/15/chipngo-dev-10-cartridge8"><< Prev</a></td>
+<td><a href="/2022/07/15/chipngo-dev-12-the-pcb">Next >></a></td>
+</tr>
+</table>
