@@ -24,3 +24,8 @@ Next I began designing the actual game editing window. I also kept this simple, 
 Now that the the GUI was finished, I just had to implement the functionality to store changes to SD. Fortunately, this is quite trivial in Python. You just have to provide the path to the raw SD card and can open it like any other file in binary mode. After that it was just a matter of converting the user input into bytes (and vice-versa when reading game data off the SD card) then seek to the appropriate sector and write the changes.
 
 With this tool complete (which I ended up calling [Cartridge8](https://github.com/kurtjd/CHIPnGo/tree/main/tools/cartridge8)), I could now rapidly store games on the SD and test them on the console. By this point the prototype was essentially complete, it was now time to decide where I was going to go from here.
+
+<p align="center">
+<img src="/assets/img/chipngo-prototype.jpg" width="100%" height="100%" />
+<small>I moved the buttons around and added a makeshift battery pack so the prototype alone was already feeling like a handheld console.</small>
+</p>
